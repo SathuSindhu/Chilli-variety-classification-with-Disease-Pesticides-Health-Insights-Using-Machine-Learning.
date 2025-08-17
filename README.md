@@ -4,7 +4,7 @@ A machine learning-powered web application that classifies chili varieties based
 
 
 Installation:
-git clone https://github.com/Vishwajitha/chilli-variety-classifier-web-application.git
+git clone https://github.com/SathuSindhu/chilli-variety-classifier-web-application.git
 
 
 Navigate to the project directory:
